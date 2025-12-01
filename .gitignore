@@ -1,0 +1,22 @@
+# Claude Code 설정
+claude.md
+
+# Rust 빌드 결과물
+target/
+
+# IDE 설정
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수
+.env
+.env.local
+
+# 디버그 파일
+*.pdb
