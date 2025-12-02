@@ -14,8 +14,8 @@ Rust 프로그래밍 언어 학습 저장소
 
 | 챕터 | 주제 | 상태 | 완료일 |
 |------|------|------|--------|
-| 01 | Getting Started | 진행중 | - |
-| 02 | Basic Syntax | 예정 | - |
+| 01 | Getting Started | 완료 | 2025-12-03 |
+| 02 | Basic Syntax | 완료 | 2025-12-03 |
 | 03 | Ownership | 예정 | - |
 | 04 | Structs | 예정 | - |
 | 05 | Enums and Pattern Matching | 예정 | - |
